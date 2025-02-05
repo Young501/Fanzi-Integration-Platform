@@ -1,0 +1,16 @@
+{
+    "accounts": [
+        {
+            "email": "3296937370@qq.com",
+            "role": "admin"
+        },
+        {
+            "email": "530933620@qq.com",
+            "role": "admin"
+        },
+        {
+            "email": "yangzechenau@gmail.com",
+            "role": "admin"
+        }
+    ]
+}
